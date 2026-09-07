@@ -50,12 +50,7 @@ I'm also a **Graphic Design Officer** for the Career Counselling Society and the
 **🎨 Zainab Sharif Portfolio** — My personal portfolio site, showcasing selected projects across full-stack, frontend, and game development.
 **[Live](https://zainabsharif.github.io/Zainab-Sharif-Portfolio/)** · **[Repo](https://github.com/zainabsharif/Zainab-Sharif-Portfolio)**
 
-## ✦ GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zainabsharif&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabsharif&theme=synthwave&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
 
 ### Let's build something.
 
